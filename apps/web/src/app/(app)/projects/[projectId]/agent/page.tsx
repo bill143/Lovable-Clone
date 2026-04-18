@@ -149,7 +149,7 @@ export default function AgentPage({
         setIsRunning(false);
       }
     },
-    [projectId, plan]
+    [projectId]
   );
 
   return (

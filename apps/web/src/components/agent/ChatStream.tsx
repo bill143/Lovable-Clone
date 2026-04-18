@@ -99,7 +99,7 @@ export function ChatStream({
                 {new Date(event.timestamp).toLocaleTimeString()}
               </span>
             </div>
-            <div className="mt-1 text-xs text-muted-foreground whitespace-pre-wrap break-all">
+            <div className="mt-1 text-xs text-muted-foreground whitespace-pre-wrap break-words">
               {formatEventData(event)}
             </div>
           </div>
