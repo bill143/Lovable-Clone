@@ -12,6 +12,7 @@
   "dependencies": {
     "@ai-sdk/anthropic": "^3.0.71",
     "@supabase/ssr": "^0.5.2",
+    "@nexus/agent-core": "workspace:*",
     "@supabase/supabase-js": "^2.49.1",
     "ai": "^6.0.168",
     "class-variance-authority": "^0.7.1",
