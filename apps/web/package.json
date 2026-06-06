@@ -10,8 +10,11 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.49.1",
+    "@ai-sdk/anthropic": "^3.0.71",
     "@supabase/ssr": "^0.5.2",
+    "@nexus/agent-core": "workspace:*",
+    "@supabase/supabase-js": "^2.49.1",
+    "ai": "^6.0.168",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^11.15.0",
@@ -19,6 +22,7 @@
     "next": "14.2.21",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "sonner": "^2.0.7",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7"
   },

@@ -75,7 +75,7 @@ nexus/
 | PR | Milestone | Status |
 |----|-----------|--------|
 | #1 | Foundation — monorepo scaffold, landing page, auth, schema | ✅ |
-| #2 | Agent Core — LangGraph agents, prompts, memory | 🔜 |
+| #2 | Agent Core — LangGraph agents, prompts, memory | ✅ |
 | #3 | WebContainer Builder — StackBlitz integration, live preview | 🔜 |
 | #4 | Clone Intelligence Engine — URL-to-clone pipeline | 🔜 |
 | #5 | Autonomous Loop — self-test, self-fix, reflection | 🔜 |
@@ -90,6 +90,7 @@ nexus/
 - [Architecture](docs/ARCHITECTURE.md) — System overview and component responsibilities
 - [Clone Engine](docs/CLONE_ENGINE.md) — Clone Intelligence Engine design
 - [Agent Loop](docs/AGENT_LOOP.md) — Autonomous Self-Improving Agent design
+- [Agent API](docs/AGENT_API.md) — `runAgent` API and SSE contract documentation
 
 ## Credits
 
