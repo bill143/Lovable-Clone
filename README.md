@@ -76,7 +76,7 @@ nexus/
 |----|-----------|--------|
 | #1 | Foundation — monorepo scaffold, landing page, auth, schema | ✅ |
 | #2 | Agent Core — LangGraph agents, prompts, memory | ✅ |
-| #3 | WebContainer Builder — StackBlitz integration, live preview | 🔜 |
+| #3 | WebContainer Builder — StackBlitz integration, live preview | ✅ |
 | #4 | Clone Intelligence Engine — URL-to-clone pipeline | 🔜 |
 | #5 | Autonomous Loop — self-test, self-fix, reflection | 🔜 |
 | #6 | Voice & Multimodal — Whisper STT, ElevenLabs TTS | 🔜 |
