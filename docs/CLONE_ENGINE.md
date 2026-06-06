@@ -1,6 +1,6 @@
 # Clone Intelligence Engine (CIE)
 
-> **Status:** Stub — implementation planned for PR #4.
+> **Status:** Implemented in PR #4 — crawl, DOM/style extraction, network/framework analysis, and report generation.
 
 ## Overview
 
