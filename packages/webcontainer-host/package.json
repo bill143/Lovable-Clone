@@ -7,6 +7,28 @@
   "scripts": {
     "build": "tsc --noEmit",
     "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "echo 'no linter configured yet'"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3",
+    "vitest": "^4.1.4"
+  },
+  "dependencies": {
+    "@webcontainer/api": "^1.5.1",
+    "nanoid": "3"
+  }
+}
+{
+  "name": "@nexus/webcontainer-host",
+  "version": "0.0.1",
+  "private": true,
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "build": "tsc --noEmit",
+    "typecheck": "tsc --noEmit",
     "lint": "echo 'no linter configured yet'"
   },
   "devDependencies": {
